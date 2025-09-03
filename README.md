@@ -1,50 +1,46 @@
 # Hello, I'm Amaan
 <a href="https://www.linkedin.com/in/amaan-khan-460504215/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a First-Class BSc Computing graduate with a passion for software development and solving real-world problems through clean, efficient, and scalable code.
+I’m a First-Class BSc Computing graduate with a passion for **data analysis** and solving real-world problems by extracting insights from data. I have a solid foundation in programming and am eager to apply my technical skills to the field of data analytics.
 
 ## Objective
 
-I'm seeking a graduate or entry-level software engineering role where I can contribute to full-stack web development, automation, and modern application design, while continuing to build my technical depth in real-world environments.
+I'm seeking a graduate or entry-level data analyst role where I can apply my skills in data manipulation, statistical analysis, and visualization to help drive business decisions. I am eager to contribute to data-driven projects while expanding my expertise in real-world environments.
 
 ## Skills
 
-| Skill                               | Associated Project         |
-|------------------------------------|----------------------------|
-| Full-Stack Development (MERN)      | <a href="#">Productivity App (FYP)</a> |
-| RESTful API Design & Integration   | <a href="#">Productivity App (FYP)</a> |
-| UI/UX Focused Frontend Development | <a href="#">Portfolio Website</a> |
-| Git & Version Control              | <a href="#">All Projects</a> |
-| Python Scripting for Automation    | <a href="#">Automation Scripts</a> |
-| Component-Based Frontend (React)   | <a href="#">Productivity App (FYP)</a> |
+| Skill                                     | Associated Project         |
+|-------------------------------------------|----------------------------|
+| Data Manipulation & Analysis (Python)     | <a href="#">Data Analysis Project</a> |
+| Data Visualization (Tableau, Excel)       | <a href="#">Dashboard Project</a> |
+| Statistical Analysis & Modeling           | <a href="#">Data Analysis Project</a> |
+| SQL for Data Retrieval & Management       | <a href="#">(New Project Idea)</a> |
+| Git & Version Control                     | <a href="#">All Projects</a> |
 
 ## Tools
 
 ### Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A5?&style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### Frameworks & Tools
+### Libraries & Tools
 <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Express-000000?&style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ## Projects
 
+- <b>Data Analysis Project</b>  
+  Used Python (Pandas, NumPy) to clean and analyze a public dataset, generating key insights and presenting findings through data visualization (Matplotlib, Seaborn).
+
+- <b>Interactive Dashboard</b>  
+  Developed an interactive dashboard in Tableau to visualize data and allow users to explore trends and patterns. Created compelling charts and storytelling dashboards.
+
 - <b>Productivity App (Final Year Project)</b>  
-  MERN stack web app featuring intelligent task planning, Pomodoro timers, and gamified productivity tools.
-
-- <b>Portfolio Website</b>  
-  Fully responsive HTML/CSS/JavaScript website with animations, mobile-first design, and smooth navigation.
-
-- <b>Python Automation Scripts</b>  
-  Utility scripts for file cleanup, CSV parsing, and basic automation to speed up common repetitive tasks.
+  MERN stack web app featuring intelligent task planning and gamified productivity tools. This project showcases my problem-solving skills and technical versatility.
