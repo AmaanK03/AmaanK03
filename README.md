@@ -1,70 +1,73 @@
-# Hello, I'm Amaan
+# Hello, I'm Amaan 👋
 <a href="https://www.linkedin.com/in/amaan-khan-460504215/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a First-Class BSc Computing graduate with a focus on **data analysis**. I enjoy working with datasets, uncovering patterns, and communicating insights that support informed decision-making. My background in computing has given me strong programming skills, which I now apply to data cleaning, analysis, and visualization.
+I’m a **First-Class BSc Computing graduate** with a strong interest in **IT Support and Service Desk roles**. I enjoy troubleshooting technical issues, supporting users, and keeping systems running reliably. I have hands-on experience through practical labs and real-world simulations that mirror enterprise IT environments.
 
 ---
 
 ## Objective
-I am seeking a graduate or entry-level data analyst role where I can apply my skills in:
-- Data manipulation and cleaning  
-- Statistical analysis  
-- Data visualization and dashboarding  
-- SQL for data querying  
 
-I aim to contribute to data-driven projects while continuing to expand my expertise in real-world business environments.
+I am seeking an **entry-level / graduate IT Support or Service Desk role** where I can:
 
----
-
-## Skills
-
-| Skill                                 | Associated Project                     |
-|--------------------------------------|----------------------------------------|
-| Data Cleaning & Manipulation (Python)| [Virtual Healthcare Assistant](#)       |
-| Data Visualization (Tableau, Excel)  | [Interactive Dashboard](#)             |
-| Statistical Analysis & Modeling       | [Virtual Healthcare Assistant](#)       |
-| SQL for Data Retrieval & Management  | (In progress project)                   |
-| Git & Version Control                 | All Projects                           |
+- Provide 1st line technical support in a Windows environment  
+- Troubleshoot hardware, software, and access issues  
+- Manage users and permissions using Active Directory  
+- Support Microsoft 365 applications and devices  
+- Develop my skills in IT service management and infrastructure  
 
 ---
 
-## Tools
+## Core IT Support Skills
 
-### Programming Languages
+| Skill Area | Practical Experience |
+|----------|---------------------|
+| Desktop Support | Windows 10/11 user support and troubleshooting |
+| Active Directory | User accounts, groups, password resets, permissions |
+| Microsoft 365 | Outlook, Teams, OneDrive, SharePoint |
+| Ticket Handling | Incident and service request handling |
+| Hardware | PC builds, upgrades, replacements |
+| Virtualisation | VirtualBox (Windows Server & client VMs) |
+| Communication | User support, documentation, clear explanations |
+
+---
+
+## Certifications
+
+- **Microsoft Azure Fundamentals (AZ-900)** – *In progress*  
+- Building core knowledge of:
+  - Cloud concepts (IaaS, PaaS, SaaS)  
+  - Core Azure services  
+  - Security, compliance, and identity fundamentals  
+
+---
+
+## Tools & Technologies
+
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A5?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_10/11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### Libraries & Tools
+### IT Support Tools
 <div>
-    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Matplotlib-005C55?&style=for-the-badge&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Seaborn-4C8CBF?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-1EBE8C?&style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ---
 
-## Projects
+## Labs & Projects
 
-- [**Virtual Healthcare Assistant (Data Analysis & NLP Project)**](https://github.com/AmaanK03/Medical-Symptom-Classification-Model-)  
-  - Cleaned and prepared healthcare symptom datasets (Python, Pandas, NumPy)  
-  - Conducted exploratory analysis to highlight data imbalance and common illness trends  
-  - Trained and evaluated BioBERT on symptom classification, comparing performance with traditional models (Random Forest, Logistic Regression)  
-  - Reported insights using accuracy, precision, recall, and confusion matrices, showing bias toward frequent conditions  
+### [Windows Server & Active Directory Lab](https://github.com/AmaanK03/windows-server-ad-lab)
+- Deployed Windows Server and Windows 10 client VMs using VirtualBox  
+- Installed and configured Active Directory Domain Services (AD DS)  
+- Joined client machines to the domain and managed users and groups via RSAT  
+- Practised common service desk tasks such as password resets and account unlocks  
+- Troubleshot login, permissions, and domain connectivity issues  
 
+---
 
-
-- **Interactive Dashboard**  
-  - Built a Tableau dashboard to analyse key business metrics  
-  - Created interactive charts with filtering to explore trends  
-  - Designed storytelling dashboards to present results to stakeholders  
-
-- **Productivity App (Final Year Project)**  
-  - MERN stack web application supporting task planning and productivity  
-  - Integrated AI-assisted task breakdown, Pomodoro timer, and gamification features  
-  - Managed full-stack development with data-driven functionality  
+📌 *This GitHub profile documents my IT labs, projects, and continuous learning as I work towards a career in IT Support.*
