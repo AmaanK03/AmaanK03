@@ -61,7 +61,7 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Labs & Projects
 
-### [Windows Server & Active Directory Lab](https://github.com/AmaanK03/windows-server-ad-lab)
+### [Windows Server & Active Directory Lab](https://github.com/AmaanK03/Windows-Server-Active-Directory-Lab)
 - Deployed Windows Server and Windows 10 client VMs using VirtualBox  
 - Installed and configured Active Directory Domain Services (AD DS)  
 - Joined client machines to the domain and managed users and groups via RSAT  
