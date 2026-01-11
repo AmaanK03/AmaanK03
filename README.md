@@ -66,8 +66,12 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 - Installed and configured Active Directory Domain Services (AD DS)  
 - Joined client machines to the domain and managed users and groups via RSAT  
 - Practised common service desk tasks such as password resets and account unlocks  
-- Troubleshot login, permissions, and domain connectivity issues  
+- Troubleshot login, permissions, and domain connectivity issues
 
+### [Ticketing System Lab](https://github.com/AmaanK03/)
+- Logged, prioritised, updated, and resolved support tickets in line with standard 1st Line support workflows
+- Managed users, technicians, ticket categories, and priorities to reflect business impact and urgency
+- Documented troubleshooting steps and resolutions clearly, maintaining accurate ticket notes and user communication.
 ---
 
 📌 *This GitHub profile documents my IT labs, projects, and continuous learning as I work towards a career in IT Support.*
