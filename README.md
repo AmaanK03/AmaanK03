@@ -62,11 +62,13 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 ## Labs & Projects
 
 ### [Windows Server & Active Directory Lab](https://github.com/AmaanK03/Windows-Server-Active-Directory-Lab)
-- Deployed Windows Server and Windows 10 client VMs using VirtualBox  
-- Installed and configured Active Directory Domain Services (AD DS)  
-- Joined client machines to the domain and managed users and groups via RSAT  
-- Practised common service desk tasks such as password resets and account unlocks  
-- Troubleshot login, permissions, and domain connectivity issues
+- Installed and configured Active Directory Domain Services; joined Windows 10/11 clients to the domain
+- Performed core Active Directory administration, including creating user accounts, resetting and unlocking passwords, and enabling/disabling accounts
+- Troubleshot common IT Support issues, including log-in failures, domain connectivity problems, and permission errors
+- Managed shared network drives, configuring NTFS and share permissions for users and security groups
+- Configured and applied Group Policy Objects (GPOs) to manage user and computer settings
+- Implemented endpoint patching processes using Action1
+
 
 ### [Ticketing System Lab](https://github.com/AmaanK03/)
 - Logged, prioritised, updated, and resolved support tickets in line with standard 1st Line support workflows
