@@ -33,12 +33,8 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Certifications
 
-- **Microsoft Azure Fundamentals (AZ-900)** – *In progress*  
-- Building core knowledge of:
-  - Cloud concepts (IaaS, PaaS, SaaS)  
-  - Core Azure services  
-  - Security, compliance, and identity fundamentals  
-
+* **Microsoft Azure Fundamentals (AZ-900)**
+  * Issued: Jan 2026
 ---
 
 ## Tools & Technologies
