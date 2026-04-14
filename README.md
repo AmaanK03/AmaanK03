@@ -33,6 +33,9 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Certifications
 
+* **Microsoft 365 Fundamentals  (MS-900)**
+  * Issued: Mar 2026
+
 * **Microsoft Azure Fundamentals (AZ-900)**
   * Issued: Jan 2026
 ---
@@ -43,6 +46,8 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 <div>
   <img src="https://img.shields.io/badge/-Windows_10/11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
 </div>
 
 ### IT Support Tools
@@ -57,6 +62,13 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Labs & Projects
 
+
+### [Microsoft Intune & Entra ID Administration Lab](https://github.com/AmaanK03/Microsoft-Intune-Entra-ID-Administration/blob/main/README.md)
+- Configured and managed Microsoft Entra ID users, groups, and access controls within a Microsoft 365 tenant
+- Configured basic access controls and security settings (e.g. MFA and role assignments) to support user access and identity security within a Microsoft 365 environment
+- Troubleshot user access and sign-in issues in the lab (e.g. login failures, MFA prompts), developing a structured approach to resolving common helpdesk problems
+
+  
 ### [Windows Server & Active Directory Lab](https://github.com/AmaanK03/Windows-Server-Active-Directory-Lab)
 - Installed and configured Active Directory Domain Services; joined Windows 10/11 clients to the domain
 - Performed core Active Directory administration, including creating user accounts, resetting and unlocking passwords, and enabling/disabling accounts
