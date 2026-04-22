@@ -1,7 +1,7 @@
 # Hello, I'm Amaan 👋
 <a href="https://www.linkedin.com/in/amaan-khan-460504215/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a **First-Class BSc Computing graduate** with a strong interest in **IT Support and Service Desk roles**. I enjoy troubleshooting technical issues, supporting users, and keeping systems running reliably. I have hands-on experience through practical labs and real-world simulations that mirror enterprise IT environments.
+I’m a **Azure Certified IT Support Analyst** with a strong interest in **IT Support**. I enjoy troubleshooting technical issues, supporting users, and keeping systems running reliably. I have hands-on experience through work experience and practical labs that mirror enterprise IT environments.
 
 ---
 
